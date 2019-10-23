@@ -2,3 +2,5 @@ working on remote repo
 
 updated for reset 
 still working
+
+updated for merge committ
